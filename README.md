@@ -7,7 +7,7 @@ There are various ways to take screenshot using python. The first and most popul
 ![random name](/Images/screenshot_new.png)
 
 
-# Youtube Downloader
+# Project 2: Youtube Downloader
 
 This program will help you to download any youtube video in audio format.
 
