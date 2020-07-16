@@ -8,3 +8,5 @@ There are various ways to take screenshot using python. The first and most popul
 * Step 2: Capture the path to save the screenshot
 
 * Step 3: Take the screenshot using Python
+
+![random name](/Images/screenshot_new.png)
