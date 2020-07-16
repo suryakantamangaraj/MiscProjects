@@ -1,10 +1,10 @@
 
-# [Project 1: Take a Screenshot using Python](https://toppact.co.in)
+# [Project 1: Take a Screenshot using Python]
 
 Taking screenshot is necessary for most of the application so in this project you will get how to take screenshot using python.
 There are various ways to take screenshot using python. The first and most popular way is using PyAutoGUI module and here I have used the same.
 
-![random name](/tree/master/Take a Screenshot using Python/Images/screenshot_new.png)
+![random name](/Take a Screenshot using Python/Images/screenshot_new.png)
 
 
 # [Project 2: Ball Image Classifier](https://toppact.co.in)
