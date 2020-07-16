@@ -1,11 +1,8 @@
 
 # [Project 1: Take a Screenshot using Python](https://toppact.co.in)
 
-* Created a tool that estimates data science salaries (MAE ~ $ 11K) to help data scientists negotiate their income when they get a job.
-* Scraped over 1000 job descriptions from glassdoor using python and selenium
-* Engineered features from the text of each job description to quantify the value companies put on python, excel, aws, and spark.
-* Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model.
-* Built a client facing API using flask
+Taking screenshot is necessary for most of the application so in this project you will get how to take screenshot using python.
+There are various ways to take screenshot using python. The first and most popular way is using PyAutoGUI module and here I have used the same.
 
 ![random name](/Images/Random%20Daily%20Quotes.png)
 
